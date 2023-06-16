@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "skyfloatinglabeltextfield",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Skyscanner/SkyFloatingLabelTextField.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "a0750ebbc7311f3b3debf99c5e59338e854afa59"
+      }
+    }
+  ],
+  "version" : 2
+}
